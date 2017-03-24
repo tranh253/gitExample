@@ -1,4 +1,8 @@
 Trinh Son
 Trung Anh
 Madafaka
+<<<<<<< HEAD
 Es ist nicht gut
+=======
+DMMMMMMM
+>>>>>>> master
